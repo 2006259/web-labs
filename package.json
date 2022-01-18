@@ -4,7 +4,7 @@
   "description": "desc",
   "main": "htmlfile.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
     "start": "node htmlfile.js"
   },
   "repository": {
