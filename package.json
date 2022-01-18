@@ -5,6 +5,7 @@
   "main": "htmlfile.js",
   "scripts": {
     "test": "test"
+    "start": "node htmlfile.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,4 @@
   ],
   "author": "auth",
   "license": "ISC",
-  "start":"node htmlfile.js"
 }
