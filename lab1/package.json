@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "htmlfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "kw"
+  ],
+  "author": "auth",
+  "license": "ISC",
+  "start":"node htmlfile.js"
+}
